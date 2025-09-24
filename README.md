@@ -5,7 +5,7 @@
 <ol>
   <li>
     <strong>Clone the repository</strong><br>
-    <code>git clone &lt;your-github-repo-link&gt;<br>
+    <code>git clone &lt;https://github.com/akankshamahto1301/accuknox-assignment-for-frontend&gt;<br>
     cd dashboard-assignment</code>
   </li>
   <li>
@@ -21,4 +21,5 @@
     Open your browser and go to: <a href="http://localhost:3000">http://localhost:3000</a>
   </li>
 </ol>
+
 
